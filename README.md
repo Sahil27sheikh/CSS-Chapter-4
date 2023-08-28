@@ -1,5 +1,8 @@
 <pre>
-In this repository i have added some of my CSS "Display property", "Font property", "Font style property", "Font varient property", "Text decoration property", "Text transform property", "Visibility hidden and "Google fonts" knowledge like this- 
+In this repository i have added some of my CSS<b> "Display property", "Font property",
+"Font style property", "Font varient property", "Text decoration property",
+"Text transform property", "Visibility hidden and "Google fonts"</b> knowledge
+like this- 
 
 &#10148; Display property in CSS:
          display: block;
@@ -52,6 +55,6 @@ In this repository i have added some of my CSS "Display property", "Font propert
          line-height: 5px;<hr>
 &#10148; Use google fonts in repo...<hr>
 &#10148; In the practice set of this chapter i have creat the home page as the feature of Header with navigation bar, main content with two div contain paragraph and image and the last creat footer with copyright instrictions.<hr>
-Note: I have not added all the above mentioned properties to this repository. Here I have written only to describe my knowledge of all those properties, but I have used all those properties further in many repositories and projects. But in this chapter I used the maximum properties given above which you can see and do.
+<b>Note:</b> I have not added all the above mentioned properties to this repository. Here I have written only to describe my knowledge of all those properties, but I have used all those properties further in many repositories and projects. But in this chapter I used the maximum properties given above which you can see and do.
 
 </pre>
